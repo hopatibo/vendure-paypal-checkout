@@ -1,2 +1,2 @@
-# vendure-paypal-connect
+# vendure-paypal-checkout
 A payment method for vendure using paypal checkout
