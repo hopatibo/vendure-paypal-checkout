@@ -8,7 +8,8 @@ Author: Hans Ophüls
 
 Usefull links:
 
-- [paypal checkout](https://www.paypal.com/de/business/checkout)
+- [paypal checkout](https://developer.paypal.com/docs/checkout/)
+- [paypal checkout de](https://www.paypal.com/de/business/checkout)
 - [react paypal js](https://www.npmjs.com/package/@paypal/react-paypal-js)
 
 
